@@ -1,5 +1,2 @@
 www.laimz.lv
-api.laimz.lv
-content.laimz.lv
 www.bethelp.club
-api.prod.bet
