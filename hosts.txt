@@ -1,3 +1,4 @@
+af1.delphi.lv
 keytarget.adnet.lt
 galv.hit.gemius.pl
 delfiadlv.hit.gemius.pl
@@ -12,6 +13,7 @@ www.mrelko.com
 jkhad.com
 misdoers.com
 welcome.grand800.com
+welcome2.grand800.com
 yt3.ggpht.com
 krwork.ru
 promo.worldofwarships.eu
