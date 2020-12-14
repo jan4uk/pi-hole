@@ -1,5 +1,6 @@
 af1.delphi.lv
 keytarget.adnet.lt
+gasurvey.gemius.com
 galv.hit.gemius.pl
 delfiadlv.hit.gemius.pl
 s1.adform.net
@@ -24,4 +25,25 @@ scone-pa.clients6.google.com
 adclick.g.doubleclick.net
 lh5.googleusercontent.com
 news-fancy.com
+#adobe
+na1r.services.adobe.com
+hlrcv.stage.adobe.com
+lmlicenses.wip4.adobe.com
+lm.licenses.adobe.com
+activate.adobe.com
+practivate.adobe.com
+ereg.adobe.com
+activate.wip3.adobe.com
+wip3.adobe.com
+3dns-3.adobe.com
+3dns-2.adobe.com
+adobe-dns.adobe.com
+adobe-dns-2.adobe.com
+adobe-dns-3.adobe.com
+ereg.wip3.adobe.com
+activate-sea.adobe.com
+wwis-dubc1-vip60.adobe.com
+activate-sjc0.adobe.com
+adobeereg.com
+adobe.activate.com
 
